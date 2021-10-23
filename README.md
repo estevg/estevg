@@ -3,7 +3,7 @@
 <h1 align="center">~ 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗽𝗿𝗼𝗳𝗶𝗹𝗲 ~</h1>
 <br>
   <div align="center">
-    <img src="https://i.pinimg.com/originals/e0/31/20/e031206f76699a0e0283ee846856a798.gif">
+    <img src="https://i.pinimg.com/originals/2f/70/99/2f7099742924f3466241a1254e963b25.gif">
   </div>
 <br>
 
