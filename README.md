@@ -15,19 +15,19 @@
 <h2 align="center">~ 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 ~</h2>
 
 <li>
-🇨🇴 Living in Colombia 
+  🇨🇴 Living in Colombia 
 </li>
 <li>
-❤️ I Front-end Development!
+  ❤️ I Front-end Development!
 </li>
 <li>
-💼 Frontend Developer at <a href="http://razorpay.com/">21Unicorns</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+   💼 Frontend Developer at <a href="http://razorpay.com/">21Unicorns</a>
 </li>
 <li>
-✈️ I like to travel and in my free time I like to study.
+   ✈️ I like to travel and in my free time I like to study.
 </li>
-  <li>
-🎯 I put most of my attention in app development and web development with Javascript.
+<li>
+  🎯 I put most of my attention in app development and web development with Javascript.
 </li>
 <br>
 </div>
