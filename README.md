@@ -11,7 +11,7 @@
 
 
 <div>
-  <img src="https://www.notion.so/image/https%3A%2F%2Fs3.us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ff5a2e3c7-3ae3-42dc-83e3-1686af652315%2Fmoody_room.gif%3FX-Amz-Algorithm%3DAWS4-HMAC-SHA256%26X-Amz-Credential%3DAKIAT73L2G45O3KS52Y5%252F20210316%252Fus-west-2%252Fs3%252Faws4_request%26X-Amz-Date%3D20210316T004313Z%26X-Amz-Expires%3D86400%26X-Amz-Signature%3Da7f3959407d0893d38f65422def8fc21036039983f9cb0be671427e53bc131d0%26X-Amz-SignedHeaders%3Dhost?table=block&id=aa056328-d3b5-4f18-b15e-32be0a984941&spaceId=5d3f7687-8335-4c69-b329-db9194499a53&userId=98ee832f-4c3c-44bc-a96f-97a598a2c47e&cache=v2" align="right" height="650">
+ 
 <h2 align="center">~ 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 ~</h2>
 
 <li>
