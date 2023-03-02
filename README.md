@@ -21,7 +21,7 @@
   ❤️ I Front-end Development!
 </li>
 <li>
-   💼 Frontend Developer at <a href="http://razorpay.com/">21Unicorns</a>
+   💼 Frontend Developer at 
 </li>
 <li>
    ✈️ I like to travel and in my free time I like to study.
