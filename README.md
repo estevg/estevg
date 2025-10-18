@@ -1,22 +1,64 @@
-## Thanks for your visit!
+# 👋 Hey there, I'm Esteban Vega!
+<img width="12288" height="3072" alt="Esteban Banner 2" src="https://github.com/user-attachments/assets/7ca1e87b-d7a3-4e5a-925d-12c5f6f7aac3" />
 
-### 𝗖𝗼𝗻𝘁𝗮𝗰𝘁:
+## 🚀 Mobile & Frontend Developer
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-vega-003b02129/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iestebanvega1@gmail.com)
+I’m a **Mobile Developer** and **Frontend Developer** with over **6 years of experience** building high-impact digital products. I’m passionate about crafting smooth, optimized, and visually appealing user experiences using **React Native**, **Kotlin**, **Next.js**, and **TypeScript**.
+I consider myself a curious, self-taught developer who values detail, clean code, and well-structured architectures.
 
-### Stack:
+---
 
-![Android](https://img.shields.io/badge/-Android-%23282C34?style=for-the-badge&logo=android)
-![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/-React_Native-%23282C34?style=for-the-badge&logo=react)
+## 💡 About Me
 
-![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+* 📍 **Location:** Colombia 🇨🇴
+* 🌱 **Currently learning:** KMM (Kotlin Multiplatform Mobile) and iOS development.
+* 🧠 **Skilled in:** Clean Architecture and mobile app performance optimization.
+* 🎤 **Extra:** I’ve led internal talks on emerging technologies and best practices.
+* 💡 **Interests:** UI/UX, animations, clean architecture, and tech communities.
 
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+---
+
+## 🧩 Technologies & Tools
+
+| Area                | Technologies                                        |
+| ------------------- | --------------------------------------------------- |
+| **Frontend**        | React, Next.js, TypeScript, JavaScript, TailwindCSS |
+| **Mobile**          | React Native, Kotlin, Jetpack Compose, KMM          |
+| **Backend**         | Node.js, Python, Django                             |
+| **Testing & Tools** | Jest, Vitest, React Testing Library, Git, Jira      |
+| **Design / UI**     | Figma, Lottie, Reanimated, GSAP                     |
+
+---
+
+## 💬 Development Philosophy
+
+> “Clean code doesn’t just work — it’s meant to be understood.”
+> I believe a great developer doesn’t just deliver features, but builds **sustainable, maintainable experiences**.
+> I’m always eager to learn, share, and leave every project better than I found it.
+
+---
+
+## 🌍 Connect with Me
+
+* 🔗 [LinkedIn](https://linkedin.com/in/estevg)
+* 🐙 [GitHub](https://github.com/estevg)
+* ✉️ [iestebanvega1@gmail.com](mailto:iestebanvega1@gmail.com)
+
+---
+
+## ⚡ Fun Facts
+
+* 🎧 Music always keeps me coding — no commits without a good playlist.
+* ☕ Chocolate = energy + creativity.
+* 🏃‍♂️ I sometimes swap code for kilometers — I love running.
+* 📸 Photography is one of my favorite ways to disconnect and express creativity.
+* 💡 I’m always brainstorming new ideas: apps, projects, or startups.
+
+---
+
+### 💬 "Let’s build something amazing together."
+
+> Explore my repositories, open an issue, or just say hi! 😄
 
 ## My github stats
 <div>
