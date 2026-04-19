@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm Esteban Vega!
-<img width="12288" height="3072" alt="Esteban Banner 2" src="https://github.com/user-attachments/assets/7ca1e87b-d7a3-4e5a-925d-12c5f6f7aac3" />
+<img width="1000" height="250" alt="Esteban Banner 2" src="https://github.com/user-attachments/assets/7ca1e87b-d7a3-4e5a-925d-12c5f6f7aac3" />
 
 ## 🚀 Mobile & Frontend Developer
 
